@@ -8,5 +8,6 @@ applications:
   memory: 128M
   env:
     NODE_ENV: staging
-    services:
+
+services:
 - dynatrace-service
